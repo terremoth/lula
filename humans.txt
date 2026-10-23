@@ -1,0 +1,13 @@
+/* TEAM */
+  Developer / Designer: Exército do Lula
+  Site: https://terremoth.github.io/lula/
+
+/* THANKS */
+  Generated with PWA Maker
+  https://github.com/
+
+/* SITE */
+  Last update: 2026-10-23
+  Language: pt
+  Standards: HTML5, CSS3, Service Worker, Web App Manifest
+  Components: Progressive Web App (PWA)

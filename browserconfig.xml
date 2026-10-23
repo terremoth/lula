@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="img/icon-64.png"/>
+      <square150x150logo src="img/icon-128.png"/>
+      <square310x310logo src="img/icon-256.png"/>
+      <wide310x150logo src="img/social-preview-github.png"/>
+      <TileColor>#002020</TileColor>
+    </tile>
+    <notification>
+      <polling-uri src="https://terremoth.github.io/lula/notifications/feed.xml"/>
+      <frequency>30</frequency>
+      <cycle>1</cycle>
+    </notification>
+  </msapplication>
+</browserconfig>
